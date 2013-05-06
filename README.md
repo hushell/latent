@@ -1,0 +1,4 @@
+latent
+======
+
+Latent Variable Models
